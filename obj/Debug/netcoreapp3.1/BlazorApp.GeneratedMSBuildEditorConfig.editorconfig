@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = BlazorApp
+build_property.ProjectDir = D:\Projects\BlazorApp\BlazorApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
